@@ -1,0 +1,6 @@
+.idea
+Notebooks/*
+saved_models/ddpg1/*
+reports/data_dump/training.csv
+src/__pycache__/*
+
